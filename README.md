@@ -6,7 +6,6 @@ This repository is used to manage the tasks and user stories for the final proje
 
 - **Project Name**: Final Project Kanban
 - **Purpose**: This Kanban board helps track tasks related to the final project.
-- **GitHub Repository**: [Link to GitHub Repository](https://github.com/your-username/repository-name)
 
 ## Tasks
 
@@ -18,8 +17,6 @@ This repository is used to manage the tasks and user stories for the final proje
 ## Kanban Board
 
 The Kanban board is set up to manage and track all the tasks in the project. You can view it at the following link:
-
-[Project Kanban Board](https://github.com/your-username/repository-name/projects/1)
 
 ## How to Contribute
 
